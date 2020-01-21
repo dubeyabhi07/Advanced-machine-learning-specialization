@@ -3,7 +3,7 @@ Assignments of [Introduction to Deep Learning](https://www.coursera.org/learn/in
 
 Week 1: Linear models 
 
-Week 2: MNIST digits classification using Neural Network : 
+Week 2: MNIST digits classification using Multilayer Perceptron : 
 * a) Implementation using tensor-flow layer API.
 * b) Implementation using Keras
 * c) Implementation using numpy
