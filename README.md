@@ -3,12 +3,8 @@ Assignments of [Introduction to Deep Learning](https://www.coursera.org/learn/in
 
 Week 1: Linear models 
 
-Week 2: MNIST digits classification, NN using numpy only
+Week 2: MNIST digits classification using Neural Network : 
+* a) Implementation using tensor-flow layer API.
+* b) Implementation using Keras
+* c) Implementation using numpy
 
-Week 3: Image classification using CNN, Flower Classification 
-
-Week 4: Autoencoders, Human faces using GAN
-
-Week 5: Generating names using RNN
-
-Final project: Image captioning
