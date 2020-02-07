@@ -12,3 +12,12 @@ Week 3: Convolution Neural Networks :
 * a) CIFAR-10 image classification using CNN
 * b) Fine tuning of inception V archetecture for classification of flowers
 
+Week 4: Unsupervised Learning :
+* a) Autoencoders
+* B) Generate plausible human faces using Generative adversarial nets.
+
+Week 5: Recurrent Neural Networks :
+* a) Name generation.
+
+Final project:
+* a) Image captioning.
